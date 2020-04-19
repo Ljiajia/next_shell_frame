@@ -108,7 +108,7 @@ class AppContnet extends App {
         return (
             <Container>
                 <Head>
-                    <title>{'Global Blockchain Consortium'}</title>
+                    <title>document</title>
                     <link rel="shortcut icon" href={require('../static/images/favicon.ico')} />
                 </Head>
                 <GlobalStyle />
