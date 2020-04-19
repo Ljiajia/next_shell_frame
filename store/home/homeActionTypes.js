@@ -1,0 +1,1 @@
+export const NEWS_LIST_DETAIL = 'NEWS_LIST_DETAIL'

@@ -1,0 +1,6 @@
+static
+node_modules
+package.json
+*.min.js
+*.d.ts
+utils/language/*.json
